@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hawkesbow",
+    "oncran": true
+  },
+  {
+    "package": "starma",
+    "oncran": true
+  }
+]
